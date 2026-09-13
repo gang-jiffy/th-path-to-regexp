@@ -674,3 +674,5 @@ function stringifyName(name: string, next: Token | undefined): string {
 
   return name;
 }
+
+// mirror-corpus control: no change in behaviour
